@@ -1,2 +1,2 @@
-# novel
-小说GITBOOK
+# Initial page
+
